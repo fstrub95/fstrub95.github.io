@@ -28,17 +28,17 @@ In Proc. of CVPR (2017) - Spotlight. <br/>
 
 
 J. Pérolat, **F. Strub**, B. Piot, O. Pietquin <br/>
-Learning Nash Equilibrium for General-Sum Markov Games from Batch Data.
-In Proc. of AISTAT (2017).
+Learning Nash Equilibrium for General-Sum Markov Games from Batch Data. <br/>
+In Proc. of AISTAT (2017). <br/>
 [Paper](https://arxiv.org/abs/1606.08718) - [code](https://github.com/fstrub95/nashnetwork)
 
 **F. Strub**, J. Mary, R. Gaudel <br/>
-*Hybrid Recommender System based on Autoencoders.*
-In Proc. of Recsys workshop DLRS (2017)
-[Paper](https://arxiv.org/abs/1606.07659) - [code](https://github.com/fstrub95/Autoencoders_cf)
+*Hybrid Recommender System based on Autoencoders.* <br/>
+In Proc. of Recsys workshop DLRS (2017) <br/>
+[Paper](https://arxiv.org/abs/1606.07659) - [code](https://github.com/fstrub95/Autoencoders_cf) 
 
 **F. Strub**, J. Mary, P. Preux <br/> 
-*Collaborative Filtering with Stacked Denoising Autoencoders and Sparse Inputs.*
-In NIPS Workshop on Machine Learning for eCommerce. (2015).
+*Collaborative Filtering with Stacked Denoising Autoencoders and Sparse Inputs.* <br/>
+In NIPS Workshop on Machine Learning for eCommerce. (2015). <br/>
 [Paper](https://hal.archives-ouvertes.fr/hal-01256422/document) - [code](https://github.com/fstrub95/Autoencoders_cf)
 
