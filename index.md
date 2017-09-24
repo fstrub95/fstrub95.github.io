@@ -12,8 +12,8 @@ Finally, I am also studying dialogues from a multi-player Markov game perspectiv
 ## Selected Papers
 
 H. de Vries &ast; , **F. Strub** &ast; , J. Mary, H. Larochelle, O. Pietquin, A. Courville <br/>
-*Modulating Early visual Processing by language.*  <\br>
-In Proc. of NIPS (2017) - Spotlight.  <\br>
+*Modulating Early visual Processing by language.* <br/>
+In Proc. of NIPS (2017) - Spotlight. <br/>
 [Paper](https://arxiv.org/abs/1707.00683) - [code](https://github.com/GuessWhatGame) 
 
 **F. Strub**, H. de Vries, J. Mary, B. Piot, A. Courville, O. Pietquin <br/>
@@ -22,12 +22,12 @@ In Proc. of IJCAI (2017) - Oral presentation.  <\br>
 [Paper](https://arxiv.org/abs/1703.05423) - [code](https://github.com/GuessWhatGame/guesswhat) - [website](https://guesswhat.ai/)
 
 ## Presentations
-2018 (to come) Machine Learning Meetup Nantes  <\br>
-*The GuessWhat?! storyline* <\br>
+2018 (to come) Machine Learning Meetup Nantes <br/>
+*The GuessWhat?! storyline* <br/>
 [website](https://www.meetup.com/Nantes-Machine-Learning-Meetup/events/239908834/)
 
-2016 - Meet-up Recsys Presentation <\br> 
-*Using Neural Networks to predict user ratings* <\br> 
+2016 - Meet-up Recsys Presentation <br/>
+*Using Neural Networks to predict user ratings* <br/>
 [website](https://www.meetup.com/RecSysFR/events/231530623/?_cookie-check=24UkbWeDEob87GeP) - [video](https://www.youtube.com/watch?v=YSBNUZIV7ZM)
 
 
