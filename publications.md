@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Publication
-permalink: /publication/
+title: Publications
+permalink: /publications/
 ---
 
 Some information about you!
