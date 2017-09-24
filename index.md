@@ -17,7 +17,7 @@ In Proc. of NIPS (2017) - Spotlight. <br/>
 [Paper](https://arxiv.org/abs/1707.00683) - [code](https://github.com/GuessWhatGame) 
 
 **F. Strub**, H. de Vries, J. Mary, B. Piot, A. Courville, O. Pietquin <br/>
-*End-to-end optimization of goal-driven and visually grounded dialogue systems.*  <\br>
+*End-to-end optimization of goal-driven and visually grounded dialogue systems.*  <br/>
 In Proc. of IJCAI (2017) - Oral presentation.  <\br>
 [Paper](https://arxiv.org/abs/1703.05423) - [code](https://github.com/GuessWhatGame/guesswhat) - [website](https://guesswhat.ai/)
 
@@ -27,10 +27,10 @@ In Proc. of IJCAI (2017) - Oral presentation.  <\br>
 
 
 ## Websites
-GuessWhat is a two-player visual dialogue game I used as a testbed for Visually Grounding Language algorithms. <\br>
+GuessWhat is a two-player visual dialogue game I used as a testbed for Visually Grounding Language algorithms. <br/>
 [website](https://guesswhat.ai/)
 
-LightingTorch is a website I set up when I first started to use Torch. Its initial goal was to provide helpful tips on the Lua Torch Framework.
+LightingTorch is a website I set up when I first started to use Torch. Its initial goal was to provide helpful tips on the Lua Torch Framework. <br/>
 [website](http://lighting-torch.com/)
 
 
