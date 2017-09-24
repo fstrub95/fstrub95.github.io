@@ -22,7 +22,7 @@ In Proc. of IJCAI (2017) - Oral presentation.  <\br>
 [Paper](https://arxiv.org/abs/1703.05423) - [code](https://github.com/GuessWhatGame/guesswhat) - [website](https://guesswhat.ai/)
 
 <div class="more_publi">
-<a href="{{ site.baseurl }}{{ publications.url }}" class="read-more">Read More</a>
+<a href="{{ site.baseurl }}/publications" class="read-more">All publication</a>
 </div>
 
 ## Presentations
