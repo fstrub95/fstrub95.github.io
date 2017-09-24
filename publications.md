@@ -13,12 +13,12 @@ In ICML Speech and Language Processing Workshop (2017).
 
 H. de Vries&ast;, **F. Strub**&ast;, J. Mary, H. Larochelle, O. Pietquin, A. Courville
 *Modulating Early visual Processing by language.*
-In Proc. of NIPS (2017) - \underline{Spotlight}.
+In Proc. of NIPS (2017) - Spotlight.
 [Paper](https://arxiv.org/abs/1707.00683) - [code](https://github.com/GuessWhatGame)
 
 **F. Strub**, H. de Vries, J. Mary, B. Piot, A. Courville, O. Pietquin
 End-to-end optimization of goal-driven and visually grounded dialogue systems.
-In Proc. of IJCAI (2017)
+In Proc. of IJCAI (2017) - Oral presentation.
 [Paper](https://arxiv.org/abs/1703.05423) - [code](https://github.com/GuessWhatGame/guesswhat)
 
 H. de Vries, **F. Strub**, S. Chandar, O. Pietquin, H. Larochelle, A. Courville,
