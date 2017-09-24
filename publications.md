@@ -42,3 +42,4 @@ In Proc. of Recsys workshop DLRS (2017) <br/>
 In NIPS Workshop on Machine Learning for eCommerce. (2015). <br/>
 [Paper](https://hal.archives-ouvertes.fr/hal-01256422/document) - [code](https://github.com/fstrub95/Autoencoders_cf)
 
+&ast; stands for equal contribution
