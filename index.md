@@ -24,11 +24,11 @@ In Proc. of IJCAI (2017) - Oral presentation.<br/>
 ## Presentations
 2018 (to come) Machine Learning Meetup Nantes
 *The GuessWhat?! storyline* <\br>
-(website)[https://www.meetup.com/Nantes-Machine-Learning-Meetup/events/239908834/]
+[website](https://www.meetup.com/Nantes-Machine-Learning-Meetup/events/239908834/)
 
 2016 - Meet-up Recsys Presentation <\br> 
-*Using Neural Networks to predict user ratings*
-<\br> - (website)[https://www.meetup.com/RecSysFR/events/231530623/?_cookie-check=24UkbWeDEob87GeP] - [video](https://www.youtube.com/watch?v=YSBNUZIV7ZM)
+*Using Neural Networks to predict user ratings* <\br> 
+[website](https://www.meetup.com/RecSysFR/events/231530623/?_cookie-check=24UkbWeDEob87GeP) - [video](https://www.youtube.com/watch?v=YSBNUZIV7ZM)
 
 
 <div class="posts">
