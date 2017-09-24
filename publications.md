@@ -12,13 +12,13 @@ E. Perez, H. Vries, **F. Strub**, V. Dumoulin, A. Courville <br/>
 In ICML Speech and Language Processing Workshop (2017). <br/>
 [Paper](https://arxiv.org/abs/1707.03017) - [code](https://github.com/ethanjperez/film) (supported by Ethan)
 
-H. de Vries&ast;, **F. Strub**&ast;, J. Mary, H. Larochelle, O. Pietquin, A. Courville <br/>
+H. de Vries &ast; , **F. Strub** &ast; , J. Mary, H. Larochelle, O. Pietquin, A. Courville <br/>
 *Modulating Early visual Processing by language.* <br/>
 In Proc. of NIPS (2017) - Spotlight. <br/>
 [Paper](https://arxiv.org/abs/1707.00683) - [code](https://github.com/GuessWhatGame)
 
 **F. Strub**, H. de Vries, J. Mary, B. Piot, A. Courville, O. Pietquin <br/>
-*End-to-end optimization of goal-driven and visually grounded dialogue systems. * <br/>
+*End-to-end optimization of goal-driven and visually grounded dialogue systems.* <br/>
 In Proc. of IJCAI (2017) - Oral presentation.<br/>
 [Paper](https://arxiv.org/abs/1703.05423) - [code](https://github.com/GuessWhatGame/guesswhat)
 
