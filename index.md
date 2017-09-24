@@ -43,7 +43,7 @@ LightingTorch is a website I set up when I first started to use Torch. Its initi
 *Using Neural Networks to predict user ratings* <br/>
 [website](https://www.meetup.com/RecSysFR/events/231530623/?_cookie-check=24UkbWeDEob87GeP) - [video](https://www.youtube.com/watch?v=YSBNUZIV7ZM)
 
-
+## Recent blog posts
 <div class="posts">
   {% for post in site.posts %}
     <article class="post">
