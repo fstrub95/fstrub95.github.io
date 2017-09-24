@@ -27,10 +27,10 @@ In Proc. of IJCAI (2017) - Oral presentation.  <\br>
 
 
 ## Websites
-GuessWhat is a two-player visual dialogue game I used as a testbed for Visually Grounding Language algorithms. <br/>
+GuessWhat is a two-player visual dialogue game we developed. We used it as a testbed for Visually Grounding Language Machine Learning algorithms. <br/>
 [website](https://guesswhat.ai/)
 
-LightingTorch is a website I set up when I first started to use Torch. Its initial goal was to provide helpful tips on the Lua Torch Framework. <br/>
+LightingTorch is a website I set up when I first started to use Lua-Torch. Its initial goal was to provide helpful tips on the Lua Torch Framework. <br/>
 [website](http://lighting-torch.com/)
 
 
