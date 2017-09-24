@@ -12,17 +12,17 @@ Finally, I am also studying dialogues from a multi-player Markov game perspectiv
 ## Selected Papers
 
 H. de Vries &ast; , **F. Strub** &ast; , J. Mary, H. Larochelle, O. Pietquin, A. Courville <br/>
-*Modulating Early visual Processing by language.* <br/>
-In Proc. of NIPS (2017) - Spotlight. <br/>
+*Modulating Early visual Processing by language.*  <\br>
+In Proc. of NIPS (2017) - Spotlight.  <\br>
 [Paper](https://arxiv.org/abs/1707.00683) - [code](https://github.com/GuessWhatGame) 
 
 **F. Strub**, H. de Vries, J. Mary, B. Piot, A. Courville, O. Pietquin <br/>
-*End-to-end optimization of goal-driven and visually grounded dialogue systems.* <br/>
-In Proc. of IJCAI (2017) - Oral presentation.<br/>
+*End-to-end optimization of goal-driven and visually grounded dialogue systems.*  <\br>
+In Proc. of IJCAI (2017) - Oral presentation.  <\br>
 [Paper](https://arxiv.org/abs/1703.05423) - [code](https://github.com/GuessWhatGame/guesswhat) - [website](https://guesswhat.ai/)
 
 ## Presentations
-2018 (to come) Machine Learning Meetup Nantes
+2018 (to come) Machine Learning Meetup Nantes  <\br>
 *The GuessWhat?! storyline* <\br>
 [website](https://www.meetup.com/Nantes-Machine-Learning-Meetup/events/239908834/)
 
