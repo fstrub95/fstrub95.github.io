@@ -21,9 +21,9 @@ In Proc. of NIPS (2017) - Spotlight. <br/>
 In Proc. of IJCAI (2017) - Oral presentation.  <\br>
 [Paper](https://arxiv.org/abs/1703.05423) - [code](https://github.com/GuessWhatGame/guesswhat) - [website](https://guesswhat.ai/)
 
-<div class="more_publi">
-<a href="{{ site.baseurl }}/publications" class="read-more">All publication</a>
-</div>
+<article class="more_publi">
+<a href="{{ site.baseurl }}/publications" class="read-more">All publications</a>
+</article>
 
 ## Presentations
 2018 (to come) Machine Learning Meetup Nantes <br/>
