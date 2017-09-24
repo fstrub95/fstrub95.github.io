@@ -6,7 +6,7 @@ title: NIPS Workshop 2017!
 We are organizing a workshop  entitled: *Visually-Grounded Interaction and Language*
 It will take place at NIPS 2017, Friday, December 8th at Long Beach, CA, USA
 
-Official website ](https://nips2017vigil.github.io/)
+[Official website](https://nips2017vigil.github.io/)
 
 ## Description
 ****************************** 
