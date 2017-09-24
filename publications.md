@@ -6,19 +6,19 @@ permalink: /publications/
 
 If you need more information about the paper, the code, or if you need the slides, feel free to contact me!
 
-E. Perez, H. Vries, **F. Strub**, V. Dumoulin, A. Courville,
-Learning Visual Reasoning Without Strong Priors.
-In ICML Speech and Language Processing Workshop (2017).
+E. Perez, H. Vries, **F. Strub**, V. Dumoulin, A. Courville,<br/>
+Learning Visual Reasoning Without Strong Priors. <br/>
+In ICML Speech and Language Processing Workshop (2017). <br/>
 [Paper](https://arxiv.org/abs/1707.03017) - [code](https://github.com/ethanjperez/film) (supported by Ethan)
 
-H. de Vries&ast;, **F. Strub**&ast;, J. Mary, H. Larochelle, O. Pietquin, A. Courville
-*Modulating Early visual Processing by language.*
-In Proc. of NIPS (2017) - Spotlight.
+H. de Vries&ast;, **F. Strub**&ast;, J. Mary, H. Larochelle, O. Pietquin, A. Courville <br/>
+*Modulating Early visual Processing by language.* <br/>
+In Proc. of NIPS (2017) - Spotlight. <br/>
 [Paper](https://arxiv.org/abs/1707.00683) - [code](https://github.com/GuessWhatGame)
 
-**F. Strub**, H. de Vries, J. Mary, B. Piot, A. Courville, O. Pietquin
-End-to-end optimization of goal-driven and visually grounded dialogue systems.
-In Proc. of IJCAI (2017) - Oral presentation.
+**F. Strub**, H. de Vries, J. Mary, B. Piot, A. Courville, O. Pietquin <br/>
+End-to-end optimization of goal-driven and visually grounded dialogue systems.  <br/>
+In Proc. of IJCAI (2017) - Oral presentation.<br/>
 [Paper](https://arxiv.org/abs/1703.05423) - [code](https://github.com/GuessWhatGame/guesswhat)
 
 H. de Vries, **F. Strub**, S. Chandar, O. Pietquin, H. Larochelle, A. Courville,
