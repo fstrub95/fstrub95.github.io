@@ -25,6 +25,15 @@ In Proc. of IJCAI (2017) - Oral presentation.  <\br>
 <a href="{{ site.baseurl }}/publications" class="read-more">All publications</a>
 </article>
 
+
+## Websites
+GuessWhat is a two-player visual dialogue game I used as a testbed for Visually Grounding Language algorithms. <\br>
+[website](https://guesswhat.ai/)
+
+LightingTorch is a website I set up when I first started to use Torch. Its initial goal was to provide helpful tips on the Lua Torch Framework.
+[website](http://lighting-torch.com/)
+
+
 ## Presentations
 2018 (to come) Machine Learning Meetup Nantes <br/>
 *The GuessWhat?! storyline* <br/>
