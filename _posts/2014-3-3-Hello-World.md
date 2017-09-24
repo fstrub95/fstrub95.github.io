@@ -1,10 +1,18 @@
 ---
 layout: post
-title: You're up and running!
+title: NIPS Workshop 2017!
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+We are organizing a workshop  entitled: *Visually-Grounded Interaction and Language*
+It will take place at NIPS 2017, Friday, December 8th at Long Beach, CA, USA
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+Official website can be found at
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+## Description
+****************************** 
+
+Everyday interactions require a common understanding of language, i.e. for people to communicate effectively, words (for example ‘cat’) should invoke similar beliefs over physical concepts (what cats look like, the sounds they make, how they behave, what their skin feels like etc.). However, how this ‘common understanding’ emerges is still unclear. One appealing hypothesis is that language is tied to how we interact with the environment. As a result, meaning emerges by ‘grounding’ language in modalities in our environment (images, sounds, actions, etc.).
+
+Recent concurrent works in machine learning have focused on bridging visual and natural language understanding through visually-grounded language learning tasks, e.g. through natural images (Visual Question Answering, Visual Dialog), or through interactions with virtual physical environments. In cognitive science, progress in fMRI enables creating a semantic atlas of the cerebral cortex, or to decode semantic information from visual input. And in psychology, recent studies show that a baby’s most likely first words are based on their visual experience, laying the foundation for a new theory of infant language acquisition and learning.
+
+As the grounding problem requires an interdisciplinary attitude, this workshop aims to gather researchers with broad expertise in various fields — machine learning, computer vision, natural language, neuroscience, and psychology — to discuss their cutting edge work as well as perspectives on future directions in this exciting space of grounding and interactions.
