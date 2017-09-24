@@ -1,8 +1,10 @@
 ---
 layout: page
-title: blog
+title: Blog posts
 permalink: /blog/
 ---
+
+Please find below, all my blog posts. 
 
 <div class="posts">
   {% for post in site.posts %}
