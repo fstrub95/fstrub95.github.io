@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications/
 ---
 
-If you need more information about the paper, the code, or if you need the slide, feel free to contact me!
+If you need more information about the paper, the code, or if you need the slides, feel free to contact me!
 
 E. Perez, H. Vries, **F. Strub**, V. Dumoulin, A. Courville,
 Learning Visual Reasoning Without Strong Priors.
