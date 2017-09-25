@@ -9,7 +9,7 @@ Therefore, I focus my work on goal-oriented visually grounded dialogues.
 I am both developing new neural architectures to fuse vision and language modalities, and I am extending deep reinforcement learning methods to fit the dialogue setting. 
 Finally, I am also studying dialogues from a multi-player Markov game perspective to develop new training algorithms.
 
-## Selected Papers
+## Key Papers
 
 H. de Vries\*; , **F. Strub**\*; , J. Mary, H. Larochelle, O. Pietquin, A. Courville <br/>
 *Modulating Early visual Processing by language.* <br/>
@@ -41,7 +41,7 @@ LightingTorch is a website I set up when I first started to use Lua-Torch. Its i
 
 2016 - Meet-up Recsys Presentation <br/>
 *Using Neural Networks to predict user ratings* <br/>
-[website](https://www.meetup.com/RecSysFR/events/231530623/?_cookie-check=24UkbWeDEob87GeP) - [video](https://www.youtube.com/watch?v=YSBNUZIV7ZM)
+[website](https://www.meetup.com/RecSysFR/events/231530623/?_cookie-check=24UkbWeDEob87GeP) - [video](https://www.youtube.com/watch?v=VTpAZRlgWJk)
 
 ## Recent blog posts
 <div class="posts">
