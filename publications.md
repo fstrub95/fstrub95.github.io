@@ -6,11 +6,16 @@ permalink: /publications/
 
 If you need more information about the paper, the code, or if you need the slides, feel free to contact me!
 
+E. Perez, **F. Strub**, H. Vries, V. Dumoulin, A. Courville <br/>
+*FiLM: Visual Reasoning with a General Conditioning Layer.* <br/>
+Under submission... <br/>
+[Paper](https://arxiv.org/abs/1709.07871) - [code](https://github.com/ethanjperez/film) (supported by E. Perez)
+
 
 E. Perez, H. Vries, **F. Strub**, V. Dumoulin, A. Courville <br/>
 *Learning Visual Reasoning Without Strong Priors.* <br/>
 In ICML Speech and Language Processing Workshop (2017). <br/>
-[Paper](https://arxiv.org/abs/1707.03017) - [code](https://github.com/ethanjperez/film) (supported by Ethan)
+[Paper](https://arxiv.org/abs/1707.03017) - [code](https://github.com/ethanjperez/film)
 
 H. de Vries\* , **F. Strub**\* , J. Mary, H. Larochelle, O. Pietquin, A. Courville <br/>
 *Modulating Early visual Processing by language.* <br/>
