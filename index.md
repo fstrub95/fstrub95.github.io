@@ -18,7 +18,7 @@ In Proc. of NIPS (2017) - Spotlight. <br/>
 
 **F. Strub**, H. de Vries, J. Mary, B. Piot, A. Courville, O. Pietquin <br/>
 *End-to-end optimization of goal-driven and visually grounded dialogue systems.*  <br/>
-In Proc. of IJCAI (2017) - Oral presentation.  <\br>
+In Proc. of IJCAI (2017) - Oral presentation.  <br/>
 [Paper](https://arxiv.org/abs/1703.05423) - [code](https://github.com/GuessWhatGame/guesswhat) - [website](https://guesswhat.ai/)
 
 <article class="more_publi">
