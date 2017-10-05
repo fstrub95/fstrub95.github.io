@@ -9,7 +9,7 @@ If you need more information about the paper, the code, or if you need the slide
 E. Perez, **F. Strub**, H. Vries, V. Dumoulin, A. Courville <br/>
 *FiLM: Visual Reasoning with a General Conditioning Layer.* <br/>
 Under submission... <br/>
-[Paper](https://arxiv.org/abs/1709.07871) - [code1](https://github.com/ethanjperez/film) (supported by E. Perez) - [code2](https://github.com/GuessWhatGame/clevr)
+[Paper](https://arxiv.org/abs/1709.07871) - [code1](https://github.com/ethanjperez/film) - [code2](https://github.com/GuessWhatGame/clevr)
 
 
 E. Perez, H. Vries, **F. Strub**, V. Dumoulin, A. Courville <br/>
