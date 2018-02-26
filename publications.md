@@ -6,9 +6,9 @@ permalink: /publications/
 
 If you need more information about some papers, the code, or if you need the slides, feel free to contact me!
 
-S. Brodeur, E. Perez, A. Anand, F. Golemo, L. Celotti, **F. Strub**, J.Rouat, H. Larochelle, A. Courville,
-HoME: A household multimodal environment. 
-In Visually-Grounded Interaction and Language Workshop, NIPS 2018
+S. Brodeur, E. Perez, A. Anand, F. Golemo, L. Celotti, **F. Strub**, J.Rouat, H. Larochelle, A. Courville <br/>
+*HoME: A household multimodal environment.* <br/>
+In Visually-Grounded Interaction and Language Workshop, NIPS 2018 <br/>
 [Paper](https://arxiv.org/abs/1711.11017) - [code](https://github.com/HoME-Platform/home-platform) - [website](https://home-platform.github.io/)
 
 E. Perez, **F. Strub**, H. Vries, V. Dumoulin, A. Courville <br/>
