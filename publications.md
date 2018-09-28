@@ -6,15 +6,25 @@ permalink: /publications/
 
 If you need more information about some papers, the code, or if you need the slides, feel free to contact me!
 
-S. Brodeur, E. Perez, A. Anand, F. Golemo, L. Celotti, **F. Strub**, J.Rouat, H. Larochelle, A. Courville <br/>
-*HoME: A household multimodal environment.* <br/>
-In Visually-Grounded Interaction and Language Workshop, NIPS 2018 <br/>
-[Paper](https://arxiv.org/abs/1711.11017) - [code](https://github.com/HoME-Platform/home-platform) - [website](https://home-platform.github.io/)
+ **F. Strub**, M. Seurin, E. Perez, H. de Vries, P. Preux, A. Courville, O. Pietquin<br/>
+*Visual Reasoning with Multi-hop Feature Modulation*<br/>
+In Proc. ECCV (2018) <br/>
+[Paper](https://arxiv.org/abs/1709.07871) - [code](https://github.com/fstrub95/guesswhat) 
+
+V. Dumoulin, E. Perez, N. Schucher, **F. Strub**, H. Vries, A. Courville, Y. Bengio
+*Feature-wise transformations*
+In Proc. Distill (2018) <br/>
+[Website](https://distill.pub/2018/feature-wise-transformations/) 
 
 E. Perez, **F. Strub**, H. Vries, V. Dumoulin, A. Courville <br/>
 *FiLM: Visual Reasoning with a General Conditioning Layer.* <br/>
 In Proc. AAAI - Oral (2018) <br/>
 [Paper](https://arxiv.org/abs/1709.07871) - [code1](https://github.com/ethanjperez/film) - [code2](https://github.com/GuessWhatGame/clevr)
+
+S. Brodeur, E. Perez, A. Anand, F. Golemo, L. Celotti, **F. Strub**, J.Rouat, H. Larochelle, A. Courville <br/>
+*HoME: A household multimodal environment.* <br/>
+In Visually-Grounded Interaction and Language Workshop, NIPS 2017 <br/>
+[Paper](https://arxiv.org/abs/1711.11017) - [code](https://github.com/HoME-Platform/home-platform) - [website](https://home-platform.github.io/)
 
 E. Perez, H. Vries, **F. Strub**, V. Dumoulin, A. Courville <br/>
 *Learning Visual Reasoning Without Strong Priors.* <br/>
