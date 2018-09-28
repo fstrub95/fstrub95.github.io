@@ -7,12 +7,12 @@ permalink: /publications/
 If you need more information about some papers, the code, or if you need the slides, feel free to contact me!
 
  **F. Strub**, M. Seurin, E. Perez, H. de Vries, P. Preux, A. Courville, O. Pietquin<br/>
-*Visual Reasoning with Multi-hop Feature Modulation*<br/>
+*Visual Reasoning with Multi-hop Feature Modulation* <br/>
 In Proc. ECCV (2018) <br/>
 [Paper](https://arxiv.org/abs/1709.07871) - [code](https://github.com/fstrub95/guesswhat) 
 
 V. Dumoulin, E. Perez, N. Schucher, **F. Strub**, H. Vries, A. Courville, Y. Bengio
-*Feature-wise transformations*
+*Feature-wise transformations* <br/>
 In Proc. Distill (2018) <br/>
 [Website](https://distill.pub/2018/feature-wise-transformations/) 
 
