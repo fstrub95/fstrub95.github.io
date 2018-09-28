@@ -9,22 +9,18 @@ Therefore, I focus my work on goal-oriented visually grounded dialogues.
 I am both developing new neural architectures to fuse vision and language modalities, and I am extending deep reinforcement learning methods to fit the dialogue setting. 
 Finally, I am also studying dialogues from a multi-player Markov game perspective to develop new training algorithms.
 
-## Key Papers
-
-H. de Vries\*; , **F. Strub**\*; , J. Mary, H. Larochelle, O. Pietquin, A. Courville <br/>
-*Modulating Early visual Processing by language.* <br/>
-In Proc. of NIPS (2017) - Spotlight. <br/>
-[Paper](https://arxiv.org/abs/1707.00683) - [code](https://github.com/GuessWhatGame) 
-
-**F. Strub**, H. de Vries, J. Mary, B. Piot, A. Courville, O. Pietquin <br/>
-*End-to-end optimization of goal-driven and visually grounded dialogue systems.*  <br/>
-In Proc. of IJCAI (2017) - Oral presentation.  <br/>
-[Paper](https://arxiv.org/abs/1703.05423) - [code](https://github.com/GuessWhatGame/guesswhat) - [website](https://guesswhat.ai/)
+## Publications
 
 <article class="more_publi">
 <a href="{{ site.baseurl }}/publications" class="read-more">All publications</a>
 </article>
 
+## Workshops
+I put a lot of effort in organizing quality workhsop to federate the communties around research direction. Therefore, I was involved in the organization of the following workshop
+ - Visually Grounded Interaction and Language (2018) - [website](https://nips2018vigil.github.io/)
+ - European Workshop of Reinforcement Learning (2018) - [website](https://ewrl.wordpress.com/ewrl14-2018/)
+ - Visually Grounded Interaction and Language (2017) - [website](https://nips2018vigil.github.io/)
+ - International conference of Machine Learning (2015), Local commitee - [website](https://icml.cc/2015/)
 
 ## Websites
 GuessWhat is a two-player visual dialogue game we developed. We used it as a testbed for Visually Grounding Language Machine Learning algorithms. <br/>
@@ -34,7 +30,7 @@ LightingTorch is a website I set up when I first started to use Lua-Torch. Its i
 [website](http://lighting-torch.com/)
 
 
-## Presentations
+## Public presentations
 2018 (to come) Machine Learning Meetup Nantes <br/>
 *The GuessWhat?! storyline* <br/>
 [website](https://www.meetup.com/Nantes-Machine-Learning-Meetup/events/239908834/)
