@@ -23,21 +23,16 @@ I put a lot of effort in organizing quality workhsop to federate the communties 
  - International conference of Machine Learning (2015), Local commitee - [website](https://icml.cc/2015/)
 
 ## Websites
-GuessWhat is a two-player visual dialogue game we developed. We used it as a testbed for Visually Grounding Language Machine Learning algorithms. <br/>
-[website](https://guesswhat.ai/)
+- GuessWhat is a two-player visual dialogue game we developed. We used it as a testbed for Visually Grounding Language Machine Learning algorithms. [website](https://guesswhat.ai/)
 
-LightingTorch is a website I set up when I first started to use Lua-Torch. Its initial goal was to provide helpful tips on the Lua Torch Framework. <br/>
-[website](http://lighting-torch.com/)
+ - LightingTorch is a website I set up when I first started to use Lua-Torch. Its initial goal was to provide helpful tips on the Lua Torch Framework. [website](http://lighting-torch.com/)
 
 
 ## Public presentations
-2018 (to come) Machine Learning Meetup Nantes <br/>
-*The GuessWhat?! storyline* <br/>
-[website](https://www.meetup.com/Nantes-Machine-Learning-Meetup/events/239908834/)
+2018 (to come) Machine Learning Meetup Nantes - *The GuessWhat?! storyline* - [website](https://www.meetup.com/Nantes-Machine-Learning-Meetup/events/239908834/)
 
-2016 - Meet-up Recsys Presentation <br/>
-*Using Neural Networks to predict user ratings* <br/>
-[website](https://www.meetup.com/RecSysFR/events/231530623/?_cookie-check=24UkbWeDEob87GeP) - [video](https://www.youtube.com/watch?v=VTpAZRlgWJk)
+2016 - Meet-up Recsys Presentation - 
+*Using Neural Networks to predict user ratings* - [website](https://www.meetup.com/RecSysFR/events/231530623/?_cookie-check=24UkbWeDEob87GeP) - [video](https://www.youtube.com/watch?v=VTpAZRlgWJk)
 
 ## Recent blog posts
 <div class="posts">
