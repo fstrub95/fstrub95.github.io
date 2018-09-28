@@ -17,7 +17,7 @@ Finally, I am also studying dialogues from a multi-player Markov game perspectiv
 I put a lot of effort in organizing quality workhsop to federate the communties around research direction. Therefore, I was involved in the organization of the following workshop
  - Visually Grounded Interaction and Language (2018) - [website](https://nips2018vigil.github.io/)
  - European Workshop of Reinforcement Learning (2018) - [website](https://ewrl.wordpress.com/ewrl14-2018/)
- - Visually Grounded Interaction and Language (2017) - [website](https://nips2018vigil.github.io/)
+ - Visually Grounded Interaction and Language (2017) - [website](https://nips2017vigil.github.io/)
  - International conference of Machine Learning (2015), Local commitee - [website](https://icml.cc/2015/)
 
 ## Ph.D Visiting 
