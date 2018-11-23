@@ -11,7 +11,7 @@ If you need more information about some papers, the code, or if you need the sli
 **Florian Strub**\*, Marie-Agathe Charpagne, Tresa M. Pollock<br/>
 *Correction of Electron Back-scattered Diffraction datasets using an evolutionary algorithm* <br/>
 Under review at International Journal of Science and Engineering Investigations<br/>
-Paper: to come...
+Paper: to come...- [code](https://github.com/MLmicroscopy/distortions)
 
 Hado van Hasselt, Yotam Doron, **Florian Strub**, Matteo Hessel, Nicolas Sonnerat, Joseph Modayil<br/>
 *Deep Reinforcement Learning and the Deadly Triad* <br/>
