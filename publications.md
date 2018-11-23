@@ -6,6 +6,18 @@ permalink: /publications/
 
 If you need more information about some papers, the code, or if you need the slides, feel free to contact me!
 
+
+
+**Florian Strub**\*, Marie-Agathe Charpagne, Tresa M. Pollock<br/>
+*Correction of Electron Back-scattered Diffraction datasets using an evolutionary algorithm* <br/>
+Under review at International Journal of Science and Engineering Investigations<br/>
+Paper: to come...
+
+Hado van Hasselt, Yotam Doron, **Florian Strub**, Matteo Hessel, Nicolas Sonnerat, Joseph Modayil<br/>
+*Deep Reinforcement Learning and the Deadly Triad* <br/>
+Deep reinforcement Learning Workshop, NIPS (2018) - Oral <br/>
+Paper: to come...
+
  **F. Strub**, M. Seurin, E. Perez, H. de Vries, P. Preux, A. Courville, O. Pietquin<br/>
 *Visual Reasoning with Multi-hop Feature Modulation* <br/>
 In Proc. ECCV (2018) <br/>
