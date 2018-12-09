@@ -16,7 +16,7 @@ Paper: to come...- [code](https://github.com/MLmicroscopy/distortions)
 Hado van Hasselt, Yotam Doron, **Florian Strub**, Matteo Hessel, Nicolas Sonnerat, Joseph Modayil<br/>
 *Deep Reinforcement Learning and the Deadly Triad* <br/>
 Deep reinforcement Learning Workshop, NIPS (2018) - Oral <br/>
-Paper: to come...
+Paper: [Paper](https://arxiv.org/abs/1812.02648)
 
  **F. Strub**, M. Seurin, E. Perez, H. de Vries, P. Preux, A. Courville, O. Pietquin<br/>
 *Visual Reasoning with Multi-hop Feature Modulation* <br/>
