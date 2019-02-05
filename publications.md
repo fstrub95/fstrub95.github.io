@@ -18,7 +18,7 @@ Hado van Hasselt, Yotam Doron, **Florian Strub**, Matteo Hessel, Nicolas Sonnera
 Deep reinforcement Learning Workshop, NIPS (2018) - Oral <br/>
 Paper: [Paper](https://arxiv.org/abs/1812.02648)
 
- **F. Strub**, M. Seurin, E. Perez, H. de Vries, J. Mary, A. Courville, O. Pietquin<br/>
+ **F. Strub**, M. Seurin, E. Perez, H. de Vries, J. Mary, P. Preux,  A. Courville, O. Pietquin<br/>
 *Visual Reasoning with Multi-hop Feature Modulation* <br/>
 In Proc. ECCV (2018) <br/>
 [Paper](https://arxiv.org/abs/1709.07871) - [code](https://github.com/fstrub95/guesswhat) 
