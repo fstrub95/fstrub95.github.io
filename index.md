@@ -14,7 +14,8 @@ Finally, I am also studying dialogues from a multi-player Markov game perspectiv
 </article>
 
 ## Workshops
-I put a lot of effort in organizing quality workhsop to federate the communties around research direction. Therefore, I was involved in the organization of the following workshop
+I put a lot of effort in organizing quality workshops to federate communties around research directions. Therefore, I was involved in the organization of the following workshops:
+ - Reinforcement Learning Summer School (2019) - [website](https://rlss.inria.fr/)
  - Visually Grounded Interaction and Language (2018) - [website](https://nips2018vigil.github.io/)
  - European Workshop of Reinforcement Learning (2018) - [website](https://ewrl.wordpress.com/ewrl14-2018/)
  - Visually Grounded Interaction and Language (2017) - [website](https://nips2017vigil.github.io/)
@@ -30,6 +31,7 @@ I put a lot of effort in organizing quality workhsop to federate the communties 
 
 
 ## Public presentations
+ - Reinforcement Learning Summer School, Language Learning thought Reinforcement Learning (2019) - [website](https://rlss.inria.fr/)
  - ECCV workshop  on Visual Learning and Embodied Agents in Simulation Environments (2018) - [website](https://eccv18-vlease.github.io/)
  - Machine Learning Meetup Nantes (2017) - *The GuessWhat?! storyline* - [website](https://www.meetup.com/Nantes-Machine-Learning-Meetup/events/239908834/)
  - Meet-up Recsys Presentation (2016) - *Using Neural Networks to predict user ratings* - [website](https://www.meetup.com/RecSysFR/events/231530623/?_cookie-check=24UkbWeDEob87GeP) - [video](https://www.youtube.com/watch?v=VTpAZRlgWJk)
