@@ -6,14 +6,13 @@ permalink: /publications/
 
 If you need more information about some papers, the code, or if you need the slides, feel free to contact me!
 
+M.A. Charpagne\*, **F. Strub\***, T. M. Pollock<br/>
+*Accurate reconstruction of EBSD datasets by a multimodal data approach using an evolutionary algorithm* <br/>
+International Journal of Science and Engineering Investigations<br/>
+Symposium "Algorithm Development in Materials Science and Engineering  - Oral <br/>
+Paper: [for physician](https://arxiv.org/abs/1903.02988),  [for machine learner](https://arxiv.org/abs/1903.02982) - [code](https://github.com/MLmicroscopy/distortions)
 
-
-**Florian Strub**\*, Marie-Agathe Charpagne, Tresa M. Pollock<br/>
-*Correction of Electron Back-scattered Diffraction datasets using an evolutionary algorithm* <br/>
-Under review at International Journal of Science and Engineering Investigations<br/>
-Paper: to come...- [code](https://github.com/MLmicroscopy/distortions)
-
-Hado van Hasselt, Yotam Doron, **Florian Strub**, Matteo Hessel, Nicolas Sonnerat, Joseph Modayil<br/>
+H. van Hasselt, Y. Doron, **F. Strub**, M. Hessel, N. Sonnerat, J. Modayil<br/>
 *Deep Reinforcement Learning and the Deadly Triad* <br/>
 Deep reinforcement Learning Workshop, NIPS (2018) - Oral <br/>
 Paper: [Paper](https://arxiv.org/abs/1812.02648)
