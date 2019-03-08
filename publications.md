@@ -8,8 +8,8 @@ If you need more information about some papers, the code, or if you need the sli
 
 M.A. Charpagne\*, **F. Strub\***, T. M. Pollock<br/>
 *Accurate reconstruction of EBSD datasets by a multimodal data approach using an evolutionary algorithm* <br/>
-International Journal of Science and Engineering Investigations<br/>
-Symposium "Algorithm Development in Materials Science and Engineering  - Oral <br/>
+International Journal of Science and Engineering Investigations (2019)<br/>
+Symposium in Algorithm Development in Materials Science and Engineering, TMS (2019)  - Oral <br/>
 Paper: [for physician](https://arxiv.org/abs/1903.02988),  [for machine learner](https://arxiv.org/abs/1903.02982) - [code](https://github.com/MLmicroscopy/distortions)
 
 H. van Hasselt, Y. Doron, **F. Strub**, M. Hessel, N. Sonnerat, J. Modayil<br/>
